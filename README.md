@@ -1,4 +1,4 @@
-# Student_Management 
+# Student_Marks_Info
 
 # XAMPP Localhost:
 
